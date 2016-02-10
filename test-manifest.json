@@ -1,0 +1,19 @@
+{
+  "name": "Raw",
+  "short_name": "RAW",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32 48x48 72x72 96x96 128x128"
+    },
+    {
+      "src": "ftmultihead.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/"
+}
